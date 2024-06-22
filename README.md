@@ -22,6 +22,3 @@ This program implements the Caesar Cipher encryption and decryption technique. I
 
 4. **Output:**
    - The program will display the result of the encryption or decryption operation based on your choice.
-
-## Example
-Suppose you want to encrypt the text "Hello, World!" with a shift of 3:
